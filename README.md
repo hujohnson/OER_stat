@@ -22,4 +22,5 @@ These books contain free and open source content relevant to a stats course.
 2. _Think Stats 2e_ by Allen B. Downey (available [here](http://greenteapress.com/wp/think-stats-2e/))
 3. _OpenIntro Statistics, 3rd ed._ by Diez,Barr, Çetinkaya-Rundel (available [here](https://www.openintro.org/stat/textbook.php?stat_book=os))
 4. _Introductory Statistics (Openstax)_ by Illowsky, Dean, et al (available [here](https://openstax.org/details/books/introductory-statistics))
+5. [Online Statistics Education: An Interactive Multimedia Course of Study](http://onlinestatbook.com/)
 
